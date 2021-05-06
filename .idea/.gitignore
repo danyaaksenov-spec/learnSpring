@@ -6,3 +6,13 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+.idea/artifacts
+ .idea/compiler.xml
+ .idea/jarRepositories.xml
+ *.iml
+ *.ipr
+ *.log
+ out/
+
+
+
